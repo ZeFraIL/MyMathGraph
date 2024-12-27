@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyMathGraph</string>
+    <string name="linfunc">Graph of linear function</string>
+    <string name="lquadfunc">Graph of quadratic function</string>
+    <string name="several">Several graphs of quadratic function</string>
+    <string name="sincos">Graph of sinus and cosinus functions</string>
+</resources>
